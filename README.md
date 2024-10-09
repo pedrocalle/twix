@@ -1,18 +1,14 @@
 # Twix
 
-To start your Phoenix server:
+Twix is a social media platform built with Elixir, Phoenix, GraphQL, and WebSockets. The project aims to create an interactive, real-time platform where users can connect and share information efficiently.
+# Technologies Used
 
-  * Run `mix setup` to install and setup dependencies
-  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
+    - Elixir: Functional and distributed programming language used for the backend.
+    - Phoenix Framework: Scalable and full-featured web framework for Elixir.
+    - GraphQL: API query language for data retrieval and manipulation.
+    - WebSocket: Real-time communication between client and server.
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+# Features
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+    - Post Feed: Real-time display of user posts.
+    - Real-Time Notifications: Notification system for new interactions.#
